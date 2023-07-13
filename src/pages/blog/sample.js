@@ -18,7 +18,7 @@ const SamplePage = (props) => {
               alt={''}
             >
               <div className={styles.content}>
-                <p className={styles.excerpt}>
+                <p className={styles.blogParagraph}>
                   London-based floral designer Flora Fricker champions seasonal
                   British flowers and UK producers in her beautiful and
                   sustainable creations. This season, we worked with Flora to
